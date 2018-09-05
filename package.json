@@ -24,14 +24,14 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/react-navigation/react-navigation-stack.git"
+    "url": "git+https://github.com/NewtopiaDEV/react-navigation-stack.git"
   },
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/react-navigation/react-navigation-stack/issues"
+    "url": "https://github.com/NewtopiaDEV/react-navigation-stack/issues"
   },
-  "homepage": "https://github.com/react-navigation/react-navigation-stack#readme",
+  "homepage": "https://github.com/NewtopiaDEV/react-navigation-stack#readme",
   "dependencies": {
   },
   "devDependencies": {
@@ -52,13 +52,13 @@
     "react": "16.3.1",
     "react-dom": "16.3.1",
     "react-native": "~0.55.4",
-    "react-navigation": "^2.11.2",
+    "react-navigation": "NewtopiaDEV/react-navigation",
     "react-test-renderer": "16.3.1"
   },
   "peerDependencies": {
     "react": "*",
     "react-native": "*",
-    "react-navigation": ">=2.0 || ^2.0.0-beta"
+    "react-navigation": "NewtopiaDEV/react-navigation"
   },
   "jest": {
     "preset": "react-native",
