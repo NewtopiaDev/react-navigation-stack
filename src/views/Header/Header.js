@@ -439,6 +439,7 @@ class Header extends React.PureComponent {
 
     return (
       <Animated.View
+        accessible={true}
         pointerEvents={pointerEvents}
         key={`${name}_${key}`}
         style={[
